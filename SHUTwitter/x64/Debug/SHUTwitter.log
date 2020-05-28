@@ -1,0 +1,5 @@
+﻿  SharedMemoryIO.cpp
+\\Mac\Home\Downloads\Software_Installation\OS_Fall2019_Assignment_0\SHUTwitter\SharedMemoryIO.cpp(11,1): warning C4005: 'NO_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock.h(683): message : see previous definition of 'NO_DATA'
+  ConnectionList.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SHUTwitter.vcxproj -> \\Mac\Home\Downloads\Software_Installation\OS_Fall2019_Assignment_0\x64\Debug\SHUTwitter.exe
